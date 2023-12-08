@@ -7,7 +7,7 @@ const SpecialOffers = () => {
 
 	return (
 		<section
-			className="flex justify-wrap items-center max-container gap-10 max-xl:flex-col-reverse gap-10"
+			className="flex justify-wrap items-center max-container max-xl:flex-col-reverse gap-10"
 			id="about-us"
 		>
 			<div className="flex-1">
