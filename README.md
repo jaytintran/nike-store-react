@@ -1,8 +1,41 @@
-# React + Vite
+Overview
+Welcome to the Simple Web Design project, a minimalistic React.js application styled with TailwindCSS. This project focuses on clean and efficient design practices while utilizing the power of React.js for a seamless user experience.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Getting Started
+Clone the repository: git clone https://github.com/jaytintr/nike-store-tailwindcss
+Install dependencies: npm install
+Run the development server: npm start
+Open your browser and visit http://localhost:3000 to view the application.
 
-Currently, two official plugins are available:
+## Folder Structure
+The project follows a straightforward structure to keep the codebase organized:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```
+  /src
+  /components      # Reusable components
+  /styles          # Stylesheets using TailwindCSS
+  /assets          # Images, fonts, and other static assets
+  /constants
+  /sections
+```
+
+## Key Features
+- Clean and Minimalistic Design: The UI is intentionally kept simple for a modern and uncluttered look.
+- Responsive Layout: The design is responsive, ensuring a pleasant experience on different screen sizes.
+
+## Best Practices
+- Reusable Components:The project uses reusable components to keep the code DRY (Don't Repeat Yourself), composition, clean and organized file and folder structure, best usage of JSX and resuable data, props drilling, managable state, event triggers...
+
+## Responsive Design
+The application is designed to adapt gracefully to different screen sizes. TailwindCSS utilities are employed for responsive styling.
+
+## Dependencies
+- React.js
+- TailwindCSS
+- Vite
+- ESLint
+
+
+
+
+
