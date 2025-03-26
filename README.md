@@ -1,5 +1,6 @@
-Overview
+## Overview
 Welcome to the Simple Web Design project, a minimalistic React.js application styled with TailwindCSS. This project focuses on clean and efficient design practices while utilizing the power of React.js for a seamless user experience.
+![image](https://github.com/user-attachments/assets/85017922-893c-425c-b3b8-d9796307d6d4)
 
 ## Getting Started
 Clone the repository: git clone https://github.com/jaytintr/nike-store-tailwindcss
